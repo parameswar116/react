@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+}
+body{
+  /* background-color:orange; */
+}
+.login-input{
+  height: 250px;
+  margin:50px 450px;
+}
+
+.MuiInputBase-input-MuiOutlinedInput-input{
+  background-color: white;
+  margin: 10px 0px;
+  width: 400px;
+  text-align: center;
+}
+/* login css */
+.login-logo{
+  width: 100px;
+}
+.login-logo-div{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 20px;
+ 
+}
+.text-head{
+  margin-top: 0;
+}
+.login-input .button{
+  background-color: #0094d9;
+}
